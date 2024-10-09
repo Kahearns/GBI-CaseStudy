@@ -1,6 +1,11 @@
-# Project Name: Cyclistic BI Project 
-## BI Analyst: Kadri Hearns
-## Client/Sponsor: Sara Romero, VP of Marketing
+### **Strategy Document**
+
+**Project Name:** Cyclistic BI Project
+
+**BI Analyst:** Kadri Hearns
+
+**Client/Sponsor:** Sara Romero, VP of Marketing
+
 **Purpose:**
 - The project aims to support Cyclistic’s customer growth by using data to optimize bike station locations and enhance customer experience.
 
