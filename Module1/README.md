@@ -4,7 +4,7 @@
 In this case study, I will perform many real-world tasks of a BI Professional at a fictional company, Cyclistic. 
 
 ### Links
-**Data Source:** 
+**Data Source:** NYC Citi Bike Trips and Census Bureau US Boundaries
 
 **Data Integrity:** 
 
@@ -14,9 +14,12 @@ In this case study, I will perform many real-world tasks of a BI Professional at
 - Excel
 
 ### Stakeholders
+**Stakeholders:** Sara Romero (Marketing), Ernest Cox (Product Development), Jamal Harris (Customer Data), Nina Locklear (Procurement)<br/>
+**Team Members & Primary Contacts:** Adhira Patel (API Strategist), Megan Pirato (Data Warehousing Specialist), Rick Andersson (Data Governance Manager), Tessa Blackwell (Data Analyst), Shareefah Hakimi (Project Manager), with other team members involved.<br/>
 
 ## Ask
-
+**Focus Areas:** Customer growth insights, demand patterns by location, and user types (subscribers vs. non-subscribers)
+**Key Goals:** Understand customer usage, optimize station locations, explore bike demand, and identify seasonality trends. The dashboard should be accessible, with large print and text-to-speech options.
 ## Prepare
 
 ## Process
