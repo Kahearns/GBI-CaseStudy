@@ -13,9 +13,9 @@
 | Megan Pirato | Data Warehousing |  |
 | Rick Andersson | Data Governance Manager |  |
 
-**Primary Dataset:** NYC Citi Bike Trips
+**Primary Dataset:** [NYC Citi Bike Trips](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?pli=1)
 
-**Secondary Dataset:** Census Bureau US Boundaries
+**Secondary Dataset:** [Census Bureau US Boundaries](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-geographic-boundaries)
 
 **User Profiles:**
 
