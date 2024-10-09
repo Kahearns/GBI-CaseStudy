@@ -1,7 +1,11 @@
-# Stakeholder Requirements Document
-## Project Name: Cyclistic BI Project 
-### BI Professional: Kadri Hearns 
-### Client/Sponsor: Sara Romero, VP of Marketing
+### **Strategy Document**
+
+**Project Name:** Cyclistic BI Project
+
+**BI Analyst:** Kadri Hearns
+
+**Client/Sponsor:** Sara Romero, VP of Marketing
+
 **Business Problem:**
 - Cyclistic needs to analyze customer bike usage to support decisions on station placements and growth. Specifically, they want to understand demand at different station locations and usage patterns among various customer segments.<br/>
 
