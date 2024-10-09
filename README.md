@@ -20,8 +20,8 @@ Welcome to Cyclistic, a fictional bike-share company in NYC. In this BI project,
 **Team Members & Primary Contacts:** Adhira Patel (API Strategist), Megan Pirato (Data Warehousing Specialist), Rick Andersson (Data Governance Manager), Tessa Blackwell (Data Analyst), Shareefah Hakimi (Project Manager), with other team members involved.
 ### Data & Requirements:
 
-**Datasets:** NYC Citi Bike Trips and Census Bureau US Boundaries
-**Focus Areas:** Customer growth insights, demand patterns by location, and user types (subscribers vs. non-subscribers)
+**Datasets:** NYC Citi Bike Trips and Census Bureau US Boundaries<br/>
+**Focus Areas:** Customer growth insights, demand patterns by location, and user types (subscribers vs. non-subscribers)<br/>
 **Key Goals:** Understand customer usage, optimize station locations, explore bike demand, and identify seasonality trends. The dashboard should be accessible, with large print and text-to-speech options.
 ### Project Deliverables:
 
@@ -40,4 +40,5 @@ Analyze data spanning a year to assess trends by location, seasonality, weather,
 - Data will be anonymized for privacy.<br/>
 - Weather data will be considered, even without specific times for precipitation.<br/>
 - Geographic data aggregation will be supplemented with external data.<br/>
+
 This project aims to deliver actionable insights to drive Cyclistic’s customer growth and inform strategic decisions on station placements.
