@@ -2,6 +2,8 @@
 
 **Project Name:** Cyclistic BI Project
 
+**BI Analyst:** Kadri Hearns
+
 **Client/Sponsor:** Sara Romero, VP of Marketing
 
 **Sign-off Matrix:**
