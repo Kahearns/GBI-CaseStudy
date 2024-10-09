@@ -1,4 +1,4 @@
-### BI Professional Certificate Overview
+# BI Professional Certificate Overview
 The BI Professional Certificate includes three courses:
 
 ## Foundations of Business Intelligence (BI)
