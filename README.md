@@ -12,7 +12,7 @@ This course focuses on data visualization and dashboard creation to address busi
 
 
 ## Project Scope:
-Welcome to Cyclistic, a fictional bike-share company in NYC. In this BI project, you’ll apply skills across BI stages: capture, analyze, and monitor. By the end, you'll deliver a project showcasing BI value and data maturity to potential employers.
+In this BI project, I’ll apply skills across BI stages: capture, analyze, and monitor to Cyclistic, a fictional bike-share company in NYC.
 
 ### Stakeholders & Team:
 
