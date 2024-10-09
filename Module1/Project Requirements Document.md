@@ -28,6 +28,7 @@
   
 **Compliance and Privacy:**
 - Ensure data is anonymized to protect customer privacy, with no personally identifiable information included.
+  
 **Accessibility:**
 - Provide options for large print and text-to-speech to ensure the dashboard is usable for all stakeholders.
   
