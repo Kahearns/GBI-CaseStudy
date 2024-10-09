@@ -30,19 +30,19 @@
 
 ### Metrics and Charts:
 - **Chart 1:**
-   Title: Station Demand Map
-   Type: Heatmap
-   Dimensions: Starting and ending station locations
-   Metrics: Number of trips per station
+   Title: Station Demand Map <br/>
+   Type: Heatmap <br/>
+   Dimensions: Starting and ending station locations <br/>
+   Metrics: Number of trips per station <br/>
 - **Chart 2:**
-  *Title: Peak Usage by Customer Type
-  *Type: Bar chart
-  *Dimensions: Customer type (subscriber, one-time user)
-  *Metrics: Total trips per customer type
+   Title: Peak Usage by Customer Type <br/>
+   Type: Bar chart <br/>
+   Dimensions: Customer type (subscriber, one-time user) <br/>
+   Metrics: Total trips per customer type <br/>
 - **Chart 3:**
-⋅⋅*Title: Year-over-Year Growth
-⋅⋅*Type: Line chart
-⋅⋅*Dimensions: Year
-⋅⋅*Metrics: Percentage growth in trips
+   Title: Year-over-Year Growth <br/>
+   Type: Line chart <br/>
+   Dimensions: Year <br/>
+   Metrics: Percentage growth in trips <br/>
 - **Dashboard Mockup:**
 	◦	To be included after initial stakeholder review of key metrics and charts.
