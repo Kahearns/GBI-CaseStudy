@@ -42,3 +42,6 @@ Analyze data spanning a year to assess trends by location, seasonality, weather,
 - Geographic data aggregation will be supplemented with external data.<br/>
 
 This project aims to deliver actionable insights to drive Cyclistic’s customer growth and inform strategic decisions on station placements.
+
+### Results:
+[Tableau Visuals](https://public.tableau.com/app/profile/kadri.hearns/viz/GBICyclisticTrends-Kadri/GBICyclisticTrends)
